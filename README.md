@@ -38,7 +38,7 @@ exit
 Job numbers and process IDs depend on the current session. To stop a foreground job, press Ctrl+Z; Ctrl+C interrupts it.
 
 ## Report
-See `docs/` for the APA 7 report in Word and PDF formats, including terminal execution figures.
+See `docs/` for the APA 7 report in Word formats, including terminal execution figures.
 
 ## Limitations
 This is an educational shell, not a full Bash replacement. It does not support pipes, redirection, or full terminal foreground-process-group control.
